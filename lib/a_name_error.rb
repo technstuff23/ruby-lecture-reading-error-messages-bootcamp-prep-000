@@ -1,5 +1,5 @@
 def hello_world
-put "hello world"
+puts "hello world"
 end
 
 hello_world
